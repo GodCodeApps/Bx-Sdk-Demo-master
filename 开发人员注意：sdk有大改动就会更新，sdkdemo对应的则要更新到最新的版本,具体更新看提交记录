@@ -1,0 +1,4 @@
+注意：这个代码仓库的账号密码，如果没有直接让你们上级取，有了这个可以随时更新本sdkdemo代码
+1.版本确定查看 /host/libs/host-sdk-release-XXX.arr  xxx:这就是sdk的版本
+2.每次更新sdkversion 以后更新的bug不会兼容更新老的sdkversion
+3.已经上架的，重新打包，通过plist-admin.com 管理后台推送更新就可以了
